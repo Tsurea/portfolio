@@ -1,6 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-	output: "export"
+	distDir: "build",
+	i18n: {
+		locales: ["en", "fr", "it"],
+		defaultLocale: "fr"
+	}
 }
 
 export default nextConfig;

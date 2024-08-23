@@ -1,0 +1,6 @@
+docker/
+build/
+node_modules/
+Makefile
+.git/
+.github/

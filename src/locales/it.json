@@ -1,0 +1,6 @@
+{
+	"me": {},
+	"navbar": {
+		"navigation": ["me", "skills", "project", "contact"]
+	}
+}

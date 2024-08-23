@@ -1,0 +1,11 @@
+{
+	"me": {
+		"title": "Hello, I am Dassy Ouattara",
+		"description": "Developer FullStack",
+		"cv": "Download my CV"
+		
+	},
+	"navbar": {
+		"navigation": ["About me", "Skills", "Portfolio", "Contact me"]
+	}
+}
